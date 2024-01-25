@@ -121,7 +121,7 @@ SELECT
 FROM mcu_box_office
 WHERE Budget >= 203130303.03;
 
--- Avg box office statistics and scores of movies with an above average budget
+-- Avg box office statistics and scores of movies with a below average budget
 SELECT 
 	ROUND(AVG(`Domestic Box Office`), 2) AS `Avg domestic box office of movies with a below avg budget`, -- $313,806,275.88
     ROUND(AVG(`World Wide Box Office`), 2) AS `Avg World Wide box office of movies with a below avg budget`, -- $757,868,649.13
@@ -136,8 +136,13 @@ WHERE Budget < 203130303.03
 -- It seems like after phase 3 there has been a steady decrease in box office numbers and ratings. This may mean that streaming could be taking away from the box office. 
 -- It is also likely that people were so invested through the Infinity Saga that they didn't want to stop watching before it was finished and have their investment be wasted. Now that it is over, they aren't ready to make another investment into the Multiverse Saga when the market is so saturated.
 -- When phase one started it was a total of 6 movies. Now Phase 5 has 5 movies and phase 4 had 7 movies and no Avengers movie in between to break them up and make them more digestable.
--- And on top of the movies, the streaming shows now have to be watched to understand whats going on in the movies. The shows can be 6 to 9 hours each and there are currently 12 shows to watch.
--- And that doesn't include the 6 Netflix Marvel shows that are now also canon. Plus Sony's Venom and both Spider-mans they released, the X-Men, Deadpool, Fantastic 4. The market is overly saturated. 
+-- And on top of the movies, the streaming shows now have to be watched to understand whats going on in the films. The shows can be 6 to 9 hours each and there are currently 12 shows to watch.
+-- And that doesn't include the 6 Netflix Marvel shows that are now also canon. Plus Sony's Venom and both Spider-men they released, the X-Men, Deadpool, Fantastic 4. And each new obscure character they pump out adaptations for. The market is overly saturated. 
 -- This may also be the problem with why The Marvels did so poorly in box office and ratings, one of the main characters of the movie was only ever introduced in a show before that. So now people who haven't spent the additional 6 hours of homework watching the show won't be interested in the movie either. 
 -- It seems like how much you invest into budget doesn't have too much affect on the reviews and scores but it does seem to have a small effect on box office. 
 -- This is trumped when you force an audience to watch hours upon hours of homework at home. No matter what you invest in the budget, they won't make that investment of time. 
+-- The Multiverse Saga was a good start but instead of saturating the market with new characters they should have introduced the Fox and Sony characters into the Multiverse. It has shown to be effective with No Way Home. One of very few movies that have broke a billion in box office since Endgame. 
+-- They would not have saturated the market any further this way and people would still be filling the seats in theaters. People would love to see the crossover. That is what got people into the first phase to begin with. The crossover between heroes. You can have the audience relive the magic of the first phase with the crossover of universes. 
+-- Some of the characters they already can work with are Sony's Spider-men, The X-men and Deadpool, the Fantastic 4 (which may be difficult with Chris Evans and Michael B Jordan's characters in both versions but since they are now both gone in the MCU it might work).
+-- Disney can also attain the rights to The Marvel Knights characters like Nicolas Cage's Ghost Rider, Thomas Jane's Punisher, or Ben Affleck's Daredevil and  Wesley Snipes' Blade movies. But the problem with some of this is that the Netflix series' are now canon.
+-- X-Men vs Avengers may have been the best bet for the phase 4 Avengers Movie. 
