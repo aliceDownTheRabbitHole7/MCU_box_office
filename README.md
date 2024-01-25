@@ -1,1 +1,1 @@
-Data retrieved from https://the-numbers.com/, IMDb, and Rotton Tomatoes
+Data retrieved from https://the-numbers.com/, IMDb, and Rotton Tomatoes by myself. 
